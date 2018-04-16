@@ -1,4 +1,4 @@
-# [ Project Title ]
+# [ Making interacting chat bots in an hour ]
 
 [ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
 
